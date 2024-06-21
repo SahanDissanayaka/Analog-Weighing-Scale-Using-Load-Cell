@@ -30,7 +30,7 @@ This project demonstrates how to design and build an analog weighting scale usin
 
 ## Circuit Diagram
 
-![Circuit Diagram](path_to_your_circuit_diagram_image)
+![Circuit Diagram](Circuit_diagrams/image.png)
 
 *Description of the circuit diagram:*
 - The load cell is connected to a Wheatstone bridge configuration.
