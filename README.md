@@ -27,15 +27,16 @@ This project demonstrates how to design and build an analog weighting scale usin
 - ESP WROOM 32E Microcontroller
 - Printed Circuit Board with Amplifiying part and the Microcontroller (Designed by ourselves)
 - Connecting Wires
+- LCD Display
 
 ## Circuit Diagram
 
 ![Circuit Diagram](Circuit_diagrams/image.png)
 
 *Description of the circuit diagram:*
-- The load cell is connected to a Wheatstone bridge configuration.
-- The output of the Wheatstone bridge is fed into a differential amplifier circuit using opamps.
-- The amplified signal is further processed and can be read directly as an analog output or converted to a digital signal using an ADC (Analog-to-Digital Converter).
+- Outputs of the load cell is connected to the pcb.
+- Then output difference voltage connects to inputs of instrumentation amplifier circuit.
+- The amplified signal is directly connects to the ADC of the microcontroller.
 
 ## Working Principle
 
