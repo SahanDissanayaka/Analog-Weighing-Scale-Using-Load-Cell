@@ -31,7 +31,8 @@ This project demonstrates how to design and build an analog weighting scale usin
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit_diagrams/image.png)
+![Circuit Diagram for Amplifier and Microcontroller](Circuit_diagrams/image1.png)
+![Circuit Diagram for Power Supply](Circuit_diagrams/image2.png)
 
 *Description of the circuit diagram:*
 - Outputs of the load cell is connected to the pcb.
