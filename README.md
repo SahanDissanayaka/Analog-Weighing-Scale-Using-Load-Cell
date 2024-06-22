@@ -29,7 +29,7 @@ This project demonstrates how to design and build an analog weighting scale usin
 - Connecting Wires
 - LCD Display
 
-## Circuit Diagram
+## Circuit Diagrams
 
 ![Circuit Diagram for Amplifier and Microcontroller](Circuit_diagrams/image1.png)
 ![Circuit Diagram for Power Supply](Circuit_diagrams/image2.png)
