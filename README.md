@@ -20,12 +20,13 @@ This project demonstrates how to design and build an analog weighting scale usin
 ## Components
 
 - Load Cell
-- lm324 Operational Amplifiers (Opamps)
+- lm324N Operational Amplifiers (Opamps)
 - Resistors
 - Capacitors
 - Printed Circuit Board with Power supply (Designed by ourselves)
 - ESP WROOM 32E Microcontroller
 - Printed Circuit Board with Amplifiying part and the Microcontroller (Designed by ourselves)
+- 230V AC to 12V AC Transformer
 - Connecting Wires
 - LCD Display
 
