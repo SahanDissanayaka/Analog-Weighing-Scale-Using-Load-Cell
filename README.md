@@ -1,4 +1,4 @@
-# Analog Weighting Scale Using Load Cell
+# Analog Weighing Scale Using Load Cell
 
 ## Overview
 
