@@ -30,7 +30,7 @@ This project demonstrates how to design and build an analog weighing scale using
 - Connecting Wires
 - LCD Display
 
-## Circuit Diagrams
+## Schematic Design
 
 ![Circuit Diagram for Amplifier and Microcontroller](Circuit_diagrams/image1.png)
 ![Circuit Diagram for Power Supply](Circuit_diagrams/image2.png)
@@ -39,6 +39,19 @@ This project demonstrates how to design and build an analog weighing scale using
 - Outputs of the load cell is connected to the pcb.
 - Then output difference voltage connects to inputs of instrumentation amplifier circuit.
 - The amplified signal is directly connects to the ADC of the microcontroller.
+
+## PCB Layout
+
+### Amplifier and Microcontroller
+
+![PCB for Amplifier and Microcontroller](Circuit_diagrams/pcb1.png)
+![PCB3D Diagram for Amplifier and Microcontroller](Circuit_diagrams/pcb_3d.png)
+
+### Power Supply
+
+![PCB for Power Supply](Circuit_diagrams/pcb2.png)
+![PCB_3D for Power Supply](Circuit_diagrams/pcb_3d2.png)
+
 
 ## Working Principle
 
